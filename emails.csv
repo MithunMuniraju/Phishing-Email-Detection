@@ -1,0 +1,41 @@
+email_text,label
+"Your bank account is blocked. Verify your password immediately at http://fake-bank-login.com",Phishing
+"Congratulations! You won a free prize. Claim it now at http://claim-prize.com",Phishing
+"Your account will be suspended today. Verify your details immediately",Phishing
+"Urgent! Your payment failed. Update your card details now",Phishing
+"Click this suspicious link to claim your reward",Phishing
+"Your mailbox is full. Login immediately to avoid losing emails",Phishing
+"Your password has expired. Confirm your account information now",Phishing
+"Unusual activity detected. Secure your account by clicking this link",Phishing
+"You have been selected for a cash reward. Submit your bank details",Phishing
+"Your package is waiting. Pay a small delivery fee using this link",Phishing
+"Verify your bank account now to avoid permanent suspension",Phishing
+"Your ATM card is blocked. Share your PIN to reactivate it",Phishing
+"Congratulations! Claim your lottery winnings by submitting your details",Phishing
+"Your account has been compromised. Click here and enter your password",Phishing
+"Immediate action required. Confirm your login credentials",Phishing
+"Free gift card waiting. Click here to claim your reward",Phishing
+"Your tax refund is ready. Provide your bank details now",Phishing
+"Suspicious login detected. Verify your identity immediately",Phishing
+"Your subscription will expire. Update payment information now",Phishing
+"Claim your exclusive offer before it expires today",Phishing
+"Please find the meeting agenda attached for tomorrow's project discussion",Safe
+"Your order has been shipped. You can track it using the order number",Safe
+"Hello team, our weekly meeting is scheduled for Monday at 10 AM",Safe
+"Thank you for attending the interview. We will contact you soon",Safe
+"Your appointment is confirmed for tomorrow afternoon",Safe
+"Please review the project report before Friday",Safe
+"The college examination timetable has been published",Safe
+"Your library book is due next week",Safe
+"Thank you for your purchase. Your receipt is attached",Safe
+"Your password was successfully changed through the official website",Safe
+"The team presentation has been moved to Wednesday",Safe
+"Please submit your assignment before the deadline",Safe
+"Your flight booking confirmation is attached",Safe
+"The monthly newsletter is available on our website",Safe
+"Your course registration was completed successfully",Safe
+"Please attend the scheduled training session tomorrow",Safe
+"Your delivery has been completed successfully",Safe
+"Thank you for sharing the meeting notes",Safe
+"The university has announced the semester results",Safe
+"Your support request has been received by our team",Safe
